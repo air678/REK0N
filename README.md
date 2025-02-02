@@ -45,7 +45,7 @@ pip install sublist3r
 ## Usage
 Clone the repository and navigate to the directory:
 ```
-git clone https://github.com/yourusername/rek0n.git
+git clone https://github.com/BlackBoyRed/REK0N.git
 cd rek0n
 ```
 Run the script:
